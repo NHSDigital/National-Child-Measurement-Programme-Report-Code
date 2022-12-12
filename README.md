@@ -58,7 +58,7 @@ national-child-measurement-programme-rap
 │   │   parameters.py                       - Contains parameters that define the how the publication will run
 │   │   __init__.py                           
 │   │
-│   ├───model                              - This folder contains the Python modelling code for OLS regression
+│   ├───model                               - This folder contains the Python modelling code for OLS regression
 |   |   |   run_model.py                    - Imports and cleans the data, and runs the OLS model using the statsmodel.api function
 |   | 
 │   ├───sql_code                            - This folder contains all the SQL queries used in the import data stage
